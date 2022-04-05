@@ -1,0 +1,13 @@
+{
+  "announcements": {
+    "test": "The Test Message (present in all locales) NZ variant",
+    "testNz": "Test NZ!",
+    "lot": "A lot",
+    "of": "Of",
+    "messages": "Messages",
+    "in": "In",
+    "primary": "Primary/Fallback",
+    "language": "Language"
+  },
+  "anotherMessage": "Another Test Message"
+}

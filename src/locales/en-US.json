@@ -1,0 +1,7 @@
+{
+  "announcements": {
+    "test": "The Test Message (present in all locales) NZ variant",
+    "testUs": "US Test!"
+  },
+  "anotherMessage": "Another US Message"
+}
