@@ -5,6 +5,7 @@
   <h1>{{ $t('announcements.testAu') }}</h1>
   <h1>{{ $t('announcements.testUs') }}</h1>
   <h1>{{ $t('anotherMessage') }}</h1>
+  <h1>{{ $t('flatNzOnlyMessage') }}</h1>
 </template>
 
 <script>

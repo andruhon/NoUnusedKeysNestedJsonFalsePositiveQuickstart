@@ -9,5 +9,6 @@
     "primary": "Primary/Fallback",
     "language": "Language"
   },
-  "anotherMessage": "Another Test Message"
+  "anotherMessage": "Another Test Message",
+  "flatNzOnlyMessage": "This is not nested and works as expected"
 }
